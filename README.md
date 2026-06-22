@@ -4,7 +4,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>👨‍🚀 Về tôi</h3>
-      <p>Chào bạn! Tôi là Dimple Nguyen. Tôi là một người đam mê back-end sống tại Việt Nam.</p>
+      <p>Chào bạn! Tôi là Nguyễn Văn Quang. Tôi là một người đam mê back-end sống tại Việt Nam.</p>
       <ul>
         <li>🎓 <b>Học vấn:</b> Sinh viên ngành CNTT tại Đại học FPT.</li>
         <li>⚙️ <b>Trọng tâm:</b> Chuyên về phát triển Backend và thiết kế kiến trúc hệ thống có khả năng mở rộng.</li>
@@ -14,13 +14,12 @@
       <hr>
       <h3>📫 Kết nối với tôi</h3>
       <p>
-        <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+        <a href="https://www.facebook.com/qang.dp"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+        <a href="https://www.linkedin.com/in/v%C4%83n-quang-nguy%E1%BB%85n-0031b4347/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       </p>
       <p>
-        <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+        <a href="mailto:vanquangqn28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       </p>
       <hr>
       <h3>🧠 Thống kê LeetCode</h3>
