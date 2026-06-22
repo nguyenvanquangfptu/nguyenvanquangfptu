@@ -24,8 +24,8 @@
       </p>
       <hr>
       <h3>🧠 Thống kê LeetCode</h3>
-      <a href="https://leetcode.com/nguyenvanquangfptu/">
-        <img src="https://leetcard.jacoblin.cool/nguyenvanquangfptu?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
+      <a href="https://leetcode.com/DimpleNguyen/">
+        <img src="https://leetcard.jacoblin.cool/DimpleNguyen?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
       </a>
     </td>
     <td width="50%" valign="top">
