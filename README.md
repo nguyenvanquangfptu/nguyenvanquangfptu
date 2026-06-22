@@ -63,11 +63,9 @@
       <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
       <hr>
       <h3>📊 Đóng góp</h3>
-      <table width="100%">
-        <tr><th>Năm</th><th>Đóng góp</th><th>Trạng thái</th></tr>
-        <tr><td>🔥 2026</td><td><code>700 contributions</code></td><td>🟢 Hoạt động</td></tr>
-        <tr><td>🏆 2025</td><td><code>69 contributions</code></td><td>✅ Hoàn tất</td></tr>
-      </table>
+      <a href="https://github.com/nguyenvanquangfptu">
+        <img src="https://github-readme-stats.vercel.app/api?username=nguyenvanquangfptu&show_icons=true&theme=dark" alt="GitHub Stats" />
+      </a>
     </td>
   </tr>
 </table>
