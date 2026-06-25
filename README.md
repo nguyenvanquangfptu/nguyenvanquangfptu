@@ -25,7 +25,7 @@
       <hr>
       <h3>🧠 LeetCode Stats</h3>
       <a href="https://leetcode.com/DimpleNguyen/">
-        <img src="https://leetcard.jacoblin.cool/DimpleNguyen?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
+        <img src="https://leetcard.jacoblin.cool/DimpleNguyen?theme=dark&font=Inter" alt="LeetCode Stats" />
       </a>
       <hr>
       <h3>✍️ Latest Blog Posts</h3>
