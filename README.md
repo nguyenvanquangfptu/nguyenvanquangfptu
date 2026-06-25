@@ -3,16 +3,17 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>👨‍🚀 Về tôi</h3>
-      <p>Chào bạn! Tôi là Nguyễn Văn Quang. Tôi là một người đam mê back-end sống tại Việt Nam.</p>
+      <h3>👨‍🚀 About Me</h3>
+      <p>Hello! I'm Nguyen Van Quang. I am a passionate back-end developer based in Vietnam.</p>
       <ul>
-        <li>🎓 <b>Học vấn:</b> Sinh viên ngành CNTT tại Đại học FPT.</li>
-        <li>⚙️ <b>Trọng tâm:</b> Chuyên về phát triển Backend và thiết kế kiến trúc hệ thống có khả năng mở rộng.</li>
-        <li>☕ <b>Công nghệ cốt lõi:</b> Đam mê xây dựng các API mạnh mẽ, hiệu năng cao bằng Java và Spring Boot.</li>
-        <li>🧠 <b>Tư duy:</b> "Biến những vấn đề phức tạp nhất thành những logic đơn giản nhất."</li>
+        <li>🎓 <b>Education:</b> IT Student at FPT University.</li>
+        <li>⚙️ <b>Focus:</b> Specialized in Backend development and designing scalable system architectures.</li>
+        <li>☕ <b>Core Technologies:</b> Passionate about building robust, high-performance APIs using Java and Spring Boot.</li>
+        <li>🌱 <b>Currently learning:</b> Deep diving into Microservices architecture and system design.</li>
+        <li>🧠 <b>Mindset:</b> "Turning the most complex problems into the simplest logic."</li>
       </ul>
       <hr>
-      <h3>📫 Kết nối với tôi</h3>
+      <h3>📫 Connect with me</h3>
       <p>
         <a href="https://www.facebook.com/qang.dp"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
         <a href="https://www.linkedin.com/in/v%C4%83n-quang-nguy%E1%BB%85n-0031b4347/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -22,48 +23,56 @@
         <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
       </p>
       <hr>
-      <h3>🧠 Thống kê LeetCode</h3>
+      <h3>🧠 LeetCode Stats</h3>
       <a href="https://leetcode.com/DimpleNguyen/">
         <img src="https://leetcard.jacoblin.cool/DimpleNguyen?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
       </a>
+      <hr>
+      <h3>✍️ Latest Blog Posts</h3>
+      <!-- 
+        To automatically fetch your latest blog posts, you can use the gautamkrishnar/blog-post-workflow GitHub Action.
+        Uncomment the lines below and set up the action to display your posts here.
+      -->
+      <!-- BEGIN (Write your custom comment here) -->
+      <!-- END (Write your custom comment here) -->
+      <p><i>Coming soon...</i></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Công nghệ và công cụ</h3>
-      <b>Ngôn ngữ</b><br>
+      <h3>🛠️ Technologies & Tools</h3>
+      
+      <b>Backend</b><br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <hr>
-      <b>Phần phụ trợ</b><br>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-      <hr>
-      <b>Giao diện người dùng</b><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <hr>
-      <b>Cơ sở dữ liệu</b><br>
-      <i>Cơ sở dữ liệu quan hệ (RDBMS):</i><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-      <br><br>
-      <i>Bộ nhớ trong/NoSQL:</i><br>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
       <hr>
-      <b>DevOps & Cơ sở hạ tầng</b><br>
+      
+      <b>Frontend</b><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <hr>
+      
+      <b>DevOps & Tools</b><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      <hr>
-      <b>Công cụ phát triển</b><br>
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
       <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
       <hr>
-      <h3>📊 Đóng góp</h3>
+      
+      <h3>📊 GitHub Stats</h3>
       <a href="https://github.com/nguyenvanquangfptu">
         <img src="https://github-readme-stats.vercel.app/api?username=nguyenvanquangfptu&show_icons=true&theme=dark" alt="GitHub Stats" />
+      </a>
+      <br><br>
+      <a href="https://github.com/nguyenvanquangfptu">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanquangfptu&theme=dark" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
