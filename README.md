@@ -4,6 +4,16 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nguyenvanquangfptu&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nguyenvanquangfptu&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -73,6 +83,20 @@
       <a href="https://github.com/nguyenvanquangfptu">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanquangfptu&theme=dark" alt="GitHub Streak" />
       </a>
+      <br><br>
+      <a href="https://github.com/nguyenvanquangfptu">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanquangfptu&layout=compact&theme=dark" alt="Top Languages" />
+      </a>
     </td>
   </tr>
 </table>
+
+<br>
+<h3 align="center">🐍 Tsss... GitHub Snake!</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenvanquangfptu/nguyenvanquangfptu/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenvanquangfptu/nguyenvanquangfptu/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nguyenvanquangfptu/nguyenvanquangfptu/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</p>
