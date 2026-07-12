@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- ════════════════════════════════════════════════════════════ -->
-<!--   BANNER + ANIMATED SNAKE BORDER — all-in-one SVG          -->
+<!--   BANNER                                                     -->
 <!-- ════════════════════════════════════════════════════════════ -->
-<img src="./assets/snake-border.svg" width="100%" alt="Banner with Snake Animation">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Nguyen%20Van%20Quang&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%26%20System%20Architect&descAlignY=55&descSize=20" width="100%" alt="Nguyen Van Quang Banner">
 
 <br/>
 
