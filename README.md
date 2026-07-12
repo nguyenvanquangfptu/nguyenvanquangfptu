@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- ════════════════════════════════════════════════════════════ -->
-<!--   BANNER                                                     -->
+<!--   TYPING SVG HEADER                                          -->
 <!-- ════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Nguyen%20Van%20Quang&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%26%20System%20Architect&descAlignY=55&descSize=20" width="100%" alt="Nguyen Van Quang Banner">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=150&lines=Nguyen+Van+Quang;Backend+Developer;System+Architect" alt="Nguyen Van Quang Typing Header">
 
 <br/>
 
