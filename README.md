@@ -1,129 +1,81 @@
 <div align="center">
 
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--   TYPING SVG HEADER                                          -->
-<!-- ════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=150&lines=Nguyen+Van+Quang;Backend+Developer;System+Architect" alt="Nguyen Van Quang Typing Header">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Nguyen+Van+Quang;Java+%2F+Spring+Boot+Backend+Developer" alt="Nguyen Van Quang — Java / Spring Boot Backend Developer">
 
-<br/>
+<p>
+  <a href="https://www.linkedin.com/in/v%C4%83n-quang-nguy%E1%BB%85n-0031b4347/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:vanquangqn28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.facebook.com/qang.dp"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
 
 </div>
 
-<table width="100%">
-<tr>
+---
 
-<!-- ================= LEFT COLUMN ================= -->
-<td width="50%" valign="top">
+### 👋 About
 
-### 📌 Quick Overview
+IT student at **FPT University**, focused on backend engineering with **Java & Spring Boot**.
 
-- 🎓 **Identity:** IT Student | FPT University
-- 💻 **Tech Stack Focus:** Java / Spring Boot Ecosystem
-- 🧠 **Areas of Interest:** System Design, High Availability & Scalability
-- 🌱 **Currently Learning:** Deep diving into Microservices architecture
-- 🚀 **Mission:** Turning the most complex problems into the simplest logic
+I like building systems that hold up under load — currently working through microservices,
+caching strategies with Redis, async messaging with RabbitMQ, and containerised deployments.
+Most of what I know came from shipping full-stack projects end to end, not from tutorials.
 
-<hr>
+- 🔭 Building an **integrated coding-education platform** with a Judge0-based code execution engine
+- 🌱 Learning **microservices architecture**, distributed caching & message-driven design
+- 💬 Ask me about Spring Boot, JPA/Hibernate, PostgreSQL query tuning, or Docker Compose setups
 
-### 🔥 GitHub Streak Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanquangfptu&theme=tokyonight&hide_border=true" alt="Nguyen Van Quang" />
-</p>
+### 🚀 Featured Projects
 
-<hr>
+| Project | Description | Stack |
+|---|---|---|
+| **[Integrated Learning Platform](https://github.com/nguyenvanquangfptu/integrated-learning-platform)** | Coding-education & competitive-programming platform with a sandboxed code execution engine, async job processing and Redis-backed caching. | `Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `Judge0` `Docker` `React` |
+| **[Booking Tour](https://github.com/nguyenvanquangfptu/book_tour)** | Full-stack tour-booking system: JWT auth + Google OAuth, PayOS payment integration, Cloudinary media storage, Bucket4j API rate limiting, transactional email. | `Spring Boot 3.3` `Java 17` `PostgreSQL 16` `React 19` `TypeScript` |
 
-### 📊 Git Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenvanquangfptu&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" />
-</p>
-
-<hr>
-
-### 📈 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nguyenvanquangfptu&layout=compact&theme=tokyonight&hide_border=true"
-    width="100%"
-  />
-</p>
-
-<hr>
-
-</td>
-
-<!-- ================= RIGHT COLUMN ================= -->
-<td width="50%" valign="top">
+---
 
 ### 🛠 Tech Stack
 
-<b>💻 Languages</b>
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+**Languages**
 
-<b>⚙️ Backend</b>
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<b>🗄 Database</b>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+**Backend**
 
-<b>☁️ DevOps & Tools</b>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPS-232F3E?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-<hr>
+**Data**
 
-### 🧠 LeetCode Stats
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<p align="center">
-  <img 
-  src="https://leetcard.jacoblin.cool/DimpleNguyen?theme=tokyonight&font=Fira%20Code"
-  width="100%"
-  />
-</p>
+**Infrastructure**
 
-<hr>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 📬 Contact Me
+---
 
-<p>
-  <a href="https://www.facebook.com/qang.dp" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/v%C4%83n-quang-nguy%E1%BB%85n-0031b4347/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vanquangqn28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+### 📊 Stats
 
-<hr>
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img height="165" src="https://streak-stats.demolab.com/?user=nguyenvanquangfptu&theme=tokyonight&hide_border=true" alt="GitHub streak">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanquangfptu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages">
+
+<br/>
+
+<img height="165" src="https://leetcard.jacoblin.cool/DimpleNguyen?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode stats">
+
+</div>
