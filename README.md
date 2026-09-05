@@ -17,12 +17,12 @@
 IT student at **FPT University**, focused on backend engineering with **Java & Spring Boot**.
 
 I like building systems that hold up under load — currently working through microservices,
-caching strategies with Redis, async messaging with RabbitMQ, and containerised deployments.
+caching, message-driven design and containerised deployments.
 Most of what I know came from shipping full-stack projects end to end, not from tutorials.
 
 - 🔭 Building an **integrated coding-education platform** with a Judge0-based code execution engine
-- 🌱 Learning **microservices architecture**, distributed caching & message-driven design
-- 💬 Ask me about Spring Boot, JPA/Hibernate, PostgreSQL query tuning, or Docker Compose setups
+- 🌱 Learning **microservices architecture**, caching strategies & message-driven design
+- 💬 Ask me about Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL query tuning, or Docker
 
 ---
 
